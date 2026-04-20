@@ -1,2 +1,7 @@
 path
 docs
+.vscode
+outputs
+__pycache__
+metrics.txt
+.DS_Store
