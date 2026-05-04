@@ -1,4 +1,4 @@
-def sliding_window_chunking(document, window_size = 1000, step_size = 500):
+def sliding_window_chunking(document, window_size = 1000, step_size = 800):
     chunks = []
     start = 0
     text_len = len(document)
